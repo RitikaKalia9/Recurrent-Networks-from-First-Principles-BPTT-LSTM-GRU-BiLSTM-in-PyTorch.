@@ -1,4 +1,4 @@
-# Recurrent Neural Networks from First Principles
+# Recurrent Networks from First Principles: BPTT, LSTM, GRU, BiLSTM in PyTorch.
 
 RNN · BPTT · LSTM · GRU · BiLSTM in PyTorch. Everything runs on a CPU in under a minute, and no datasets are needed because every sequence is generated inside the notebook.
 
